@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Especialista em Geoprocessamento e Cientista Socioambiental.
 education:
   courses:
   - course: Especialização em Geoprocessamento e Análise Espacial
