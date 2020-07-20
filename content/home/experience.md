@@ -1,11 +1,11 @@
 +++
-# Experience widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
+# Experiências widget.
+widget = "Experiências"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Experiências"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,18 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Técnico em Geoprocessamento"
+  company = "NMC PROJETOS E CONSULTORIA"
+  company_url = "https://nmcprojetoseconsultoria.com.br/"
+  location = "Belo Horizonte"
+  date_start = "03-07-2018"
   date_end = ""
   description = """
-  Responsibilities include:
+  Responsabilidades:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Análise de dados
+  * Mapas Tématicos
+  * Relacionamento com o cliente
   """
-
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
