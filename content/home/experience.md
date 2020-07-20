@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company = "NMC PROJETOS E CONSULTORIA"
   company_url = "https://nmcprojetoseconsultoria.com.br/"
   location = "Belo Horizonte"
-  date_start = "Julho 2018"
+  date_start = "2018-03-07"
   date_end = ""
   description = """
   Responsabilidades:
