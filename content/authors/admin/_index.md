@@ -4,44 +4,45 @@ authors:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: Especialização em Geoprocessamento e Análise Espacial
+    institution: PUC - Minas
+    year: 2020
+  - course: Ciências Socioambientais
+    institution: Universidade Federal de Minas Gerais
+    year: 2019
+  - course: Tecnólogo em Gestão Ambiental
+    institution: Centro Universitário - UNA
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Geoprocessamento
+- Ciência de Dados
+- Saneamento Ambiental
+- Ecologia
 organizations:
-- name: Stanford University
+- name: NMC Projetos e Consultoria
   url: ""
-role: Professor of Artificial Intelligence
+role: Técnico em Geoprocessamento
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Pedroreis30
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/PedroReis13
 superuser: true
-title: Nelson Bighetti
+title: Pedro Reis
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Cientista Socioambiental formado na Universidade Federal de Minas Gerais (UFMG), com formação complementar em Ecologia. Gestor Ambiental formado pela Centro Universitário - UNA (2012). Cursando atualmente Especialização em Geoprocessamento e Análise Espacial. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Estou engajado e com forte interesse em pesquisa na área de dinâmica de populações, manejo de fogo e geoprocessamento. Tenho experiência na área de Consultoria Ambiental, com a elaboração de projetos ambientais para fins de licenciamento ambiental. 
