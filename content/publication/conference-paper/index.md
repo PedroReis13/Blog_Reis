@@ -1,10 +1,10 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-authors:
+abstract: A educação ambiental vem como algo maior que somente uma disciplina que trabalha com a biodiversidade e questões do ambiente envolvido, a mesma deve buscar algo interdisciplinar e talvez como uma etnociência da qual trabalhe os interesses de todos os envolvidos, sendo interesses dos gestores das Unidades de Conservação do Parque Estadual, até a comunidade do entorno. Segundo Cunha & Loureiro a proposta de educação no processo de gestão ambiental atua nesse tensionamento na busca de garantir a participação, no processo decisório, dos grupos historicamente excluídos e em vulnerabilidade socioambiental. O Programa Limoeiro em Ação é o conjunto de ações desenvolvidas durante o ano em forma de projetos, inserindo as comunidades, turistas, funcionários, universidades e escolas locais, estimulando e instigando sua participação e, assim, os envolvendo nos objetivos que levaram a criação do Parque. O objetivo do presente texto é descrever o papel da Educação Ambiental como uma das principais ferramentas na gestão de uma unidade de conservação, tendo como caso concreto o “Programa Limoeiro em Ação”, desenvolvido pelo Parque Estadual Mata do Limoeiro. A Gestão Socioambiental é o melhor modelo de implantação de uma Educação Ambiental interdisciplinar. Unir o conhecimento tradicional bem como transformar a Unidade de Conservação tal como um bem natural de todos, é a melhor forma de uma gestão.
+authors: Pedro Henrique Reis; Alex Luiz Amaral Oliveira; Fernanda Oliveira; Fred Mendes de Carvalho
 - admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
-doi: ""
+- Pedro Reis
+date: "2016-09-16T00:00:00Z"
+ISSN: "ISSN 2358-274X"
 featured: true
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
@@ -19,15 +19,15 @@ publication: In *Source Themes Conference*
 publication_short: In *STC*
 publication_types:
 - "1"
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2016-09-16T00:00:00Z"
 slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-tags:
+summary: A educação ambiental vem como algo maior que somente uma disciplina que trabalha com a biodiversidade e questões do ambiente envolvido, a mesma deve buscar algo interdisciplinar e talvez como uma etnociência da qual trabalhe os interesses de todos os envolvidos, sendo interesses dos gestores das Unidades de Conservação do Parque Estadual, até a comunidade do entorno. 
+tags: Gestão de Parques; Educação Socioambiental; Etnoecologia
 - Source Themes
-title: NDVI
+title: Educação Ambiental em Unidades de Conservação: O caso do Programa de Educação Socioambiental do Parque Estadual Mata do Limoeiro
 url_code: '#'
 url_dataset: '#'
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: http://www.iee.usp.br/sites/default/files/anexospublicacao/publicacao-Anais_SICAM_final1.pdf
 url_poster: '#'
 url_project: ""
 url_slides: ""
