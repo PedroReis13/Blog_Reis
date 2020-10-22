@@ -31,6 +31,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/PedroReis13
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/pedro-h-reis-83698a190/
 superuser: true
 title: Pedro Reis
 user_groups:
