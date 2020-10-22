@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_start = "2018-03-07"
   date_end = "2020-06-15"
   description = """Atuação no Programa Nossa Pampulha  COPASA"""
-  Responsabilidades:
+  Responsabilidades
   
   * Análise de dados
   * Mapas Tématicos
@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   date_start = "2019-12-01"
   date_end = ""
   description = """Atuação no Programa de Assitência Integral ao Atingido - Vale"""
-  Responsabilidades:
+  Responsabilidades
   
   * Análise de dados
   * Mapas Tématicos
@@ -57,7 +57,7 @@ date_format = "Jan 2006"
   date_start = "2016-04-06"
   date_end = "2017-07-31"
   description = """Atuação no Programa de mobilização social na Bacia da Pampulha/BH"""
-  Responsabilidades:
+  Responsabilidades
   
   * Mobilização social
   * Relatórios de campo
