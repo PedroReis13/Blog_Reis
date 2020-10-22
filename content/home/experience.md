@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_start = "2018-03-07"
   date_end = "2020-06-15"
   description = """Atuação no Programa Nossa Pampulha - COPASA"""
-  Responsabilidades:
+  Responsabilidades
   
   * Análise de dados
   * Mapas Tématicos
