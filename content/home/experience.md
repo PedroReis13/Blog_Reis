@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Técnico em Geoprocessamento"
   company = "NMC PROJETOS E CONSULTORIA"
-  company_url = "https://nmcprojetoseconsultoria.com.br/"
+  company_url = "https://nmcprojetoseconsultoria.com.br"
   location = "Belo Horizonte"
   date_start = "2018-03-07"
   date_end = "2020-06-15"
