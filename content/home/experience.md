@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "Belo Horizonte"
   date_start = "2018-03-07"
   date_end = "2020-06-15"
-  description = ""Atuação no Programa Nossa Pampulha  COPASA"
+  description = """Atuação no Programa Nossa Pampulha  COPASA"""
   Responsabilidades:
   
   * Análise de dados
@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   location = "Belo Horizonte"
   date_start = "2019-12-01"
   date_end = ""
-  description = ""Atuação no Programa de Assitência Integral ao Atingido Vale" 
+  description = """Atuação no Programa de Assitência Integral ao Atingido - Vale"""
   Responsabilidades:
   
   * Análise de dados
@@ -56,7 +56,7 @@ date_format = "Jan 2006"
   location = "Belo Horizonte"
   date_start = "2016-04-06"
   date_end = "2017-07-31"
-  description = ""Atuação no Programa de mobilização social na Bacia da Pampulha/BH" 
+  description = """Atuação no Programa de mobilização social na Bacia da Pampulha/BH"""
   Responsabilidades:
   
   * Mobilização social
