@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   * Relacionamento com o cliente
   * Manutenção e monitoramento do aplicativo ODK
   
-  [[experience]]
+  
   title = "Técnico em Geoprocessamento"
   company = "NMC PROJETOS E CONSULTORIA"
   company_url = "https://nmcprojetoseconsultoria.com.br/"
@@ -49,7 +49,7 @@ date_format = "Jan 2006"
   * Criação de formulários no Survey123
   * Criação e manutenção de dashboards
   
-  [[experience]]
+ 
   title = "Auxiliar socioambiental"
   company = "Assert"
   company_url = ""
