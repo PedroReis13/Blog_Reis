@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "Belo Horizonte"
   date_start = "2018-03-07"
   date_end = ""
-  description = """Atuação no Programa Nossa Pampulha  COPASA."""
+  description = """Programa Nossa Pampulha  COPASA."""
   Responsabilidades:
   
   * Análise de dados
