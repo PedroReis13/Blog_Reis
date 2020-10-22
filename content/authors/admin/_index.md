@@ -14,8 +14,9 @@ education:
     institution: Centro Universitário - UNA
     year: 2012
 email: ""
-interesses:
+interests:
 - Geoprocessamento
+- R / RStats
 - Ciência de Dados
 - Saneamento Ambiental
 - Ecologia
