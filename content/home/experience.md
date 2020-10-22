@@ -25,8 +25,8 @@ date_format = "Jan 2006"
   location = "Belo Horizonte"
   date_start = "2018-03-07"
   date_end = "2020-06-15"
-  description = """Atuação no Programa Nossa Pampulha  COPASA"""
-  Responsibilities include:
+  description = """Atuação no Programa Nossa Pampulha - COPASA"""
+  Responsabilidades:
   
   * Análise de dados
   * Mapas Tématicos
