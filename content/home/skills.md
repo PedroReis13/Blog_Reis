@@ -26,12 +26,6 @@ subtitle = ""
   name = "Statistics"
   description = "60%"  
   
-[[feature]]
-  icon = "'<i class="icofont-map"></i>'"
-  icon_pack = "fas"
-  name = "<i class="icofont-map"></i>"
-  description = "80%"  
-  
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
