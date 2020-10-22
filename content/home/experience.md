@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "https://nmcprojetoseconsultoria.com.br/"
   location = "Belo Horizonte"
   date_start = "2018-03-07"
-  date_end = ""
+  date_end = "2020-06-15"
   description = "Atuação no Programa Nossa Pampulha - COPASA"
   Responsabilidades:
   
@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company = "NMC PROJETOS E CONSULTORIA"
   company_url = "https://nmcprojetoseconsultoria.com.br/"
   location = "Belo Horizonte"
-  date_start = "2018-03-07"
+  date_start = "2019-12-01"
   date_end = ""
   description = "Atuação no Programa de Assitência Integral ao Atingido - Vale" 
   Responsabilidades:
