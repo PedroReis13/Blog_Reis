@@ -19,16 +19,16 @@ links:
   url: http://example.org
 projects:
 - internal-project
-publication: In *Simpósio Mineiro de Carste*
+publication: In *Simpósio Mineiro de Carste*(http://simposiomineirodocarste.blogspot.com)
 publication_short: In *STC*
 publication_types:
 - "1"
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Aplicar o Índice de Vegetação por Diferença Normalizada (NDVI) a partir das imagens do satélite Landsat 8 – Sensor OLI, para caracterizar o comportamento sazonal das Matas Secas associadas aos afloramentos carbonáticos do Carste de Lagoa Santa/MG.
 tags:
 - Source Themes
-title: Aplicação do Índice de Vegetação por Diferença Normalizada (NDVI) para Caracterização do Comportamento Sazonal da Vegetação Associada aos Afloramentos Carbonáticos do Carste de Lagoa Santa
+title: NDVI para Caracterização do Comportamento Sazonal da Vegetação Associada aos Afloramentos Carbonáticos do Carste de Lagoa Santa
 url_code: '#'
 url_dataset: '#'
 url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
