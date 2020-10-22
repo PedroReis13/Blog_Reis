@@ -19,15 +19,15 @@ publication: In *Source Themes Conference*
 publication_short: In *STC*
 publication_types:
 - "1"
-publishDate: "2016-09-16T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: A educação ambiental vem como algo maior que somente uma disciplina que trabalha com a biodiversidade e questões do ambiente envolvido, a mesma deve buscar algo interdisciplinar e talvez como uma etnociência da qual trabalhe os interesses de todos os envolvidos, sendo interesses dos gestores das Unidades de Conservação do Parque Estadual, até a comunidade do entorno. 
-tags: Gestão de Parques; Educação Socioambiental; Etnoecologia
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+tags:
 - Source Themes
-title: Educação Ambiental em Unidades de Conservação: O caso do Programa de Educação Socioambiental do Parque Estadual Mata do Limoeiro
+title: An example conference paper
 url_code: '#'
 url_dataset: '#'
-url_pdf: http://www.iee.usp.br/sites/default/files/anexospublicacao/publicacao-Anais_SICAM_final1.pdf
+url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 url_poster: '#'
 url_project: ""
 url_slides: ""
@@ -44,4 +44,5 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
 
