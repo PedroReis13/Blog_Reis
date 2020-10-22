@@ -14,14 +14,14 @@ education:
     institution: Centro Universitário - UNA
     year: 2012
 email: ""
-interests:
+interesses:
 - Geoprocessamento
 - Ciência de Dados
 - Saneamento Ambiental
 - Ecologia
 organizations:
 - name: NMC Projetos e Consultoria
-  url: ""
+  url: "https://nmcprojetoseconsultoria.com.br/"
 role: Técnico em Geoprocessamento
 social:
 - icon: twitter
@@ -37,6 +37,6 @@ user_groups:
 - Visitors
 ---
 
-Cientista Socioambiental formado na Universidade Federal de Minas Gerais (UFMG), com formação complementar em Ecologia. Gestor Ambiental formado pela Centro Universitário - UNA (2012). Cursando atualmente Especialização em Geoprocessamento e Análise Espacial. 
+Cientista Socioambiental formado na Universidade Federal de Minas Gerais (UFMG), com formação complementar em Ecologia. Gestor Ambiental formado pela Centro Universitário - UNA (2012). Cursando atualmente Especialização em Geoprocessamento e Análise Espacial na Puc-Minas.
 
 Estou engajado e com forte interesse em pesquisa na área de dinâmica de populações, manejo de fogo e geoprocessamento. Tenho experiência na área de Consultoria Ambiental, com a elaboração de projetos ambientais para fins de licenciamento ambiental. 
