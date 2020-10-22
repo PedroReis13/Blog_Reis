@@ -1,10 +1,10 @@
 ---
-abstract: A educação ambiental vem como algo maior que somente uma disciplina que trabalha com a biodiversidade e questões do ambiente envolvido, a mesma deve buscar algo interdisciplinar e talvez como uma etnociência da qual trabalhe os interesses de todos os envolvidos, sendo interesses dos gestores das Unidades de Conservação do Parque Estadual, até a comunidade do entorno. Segundo Cunha & Loureiro a proposta de educação no processo de gestão ambiental atua nesse tensionamento na busca de garantir a participação, no processo decisório, dos grupos historicamente excluídos e em vulnerabilidade socioambiental. O Programa Limoeiro em Ação é o conjunto de ações desenvolvidas durante o ano em forma de projetos, inserindo as comunidades, turistas, funcionários, universidades e escolas locais, estimulando e instigando sua participação e, assim, os envolvendo nos objetivos que levaram a criação do Parque. O objetivo do presente texto é descrever o papel da Educação Ambiental como uma das principais ferramentas na gestão de uma unidade de conservação, tendo como caso concreto o “Programa Limoeiro em Ação”, desenvolvido pelo Parque Estadual Mata do Limoeiro. A Gestão Socioambiental é o melhor modelo de implantação de uma Educação Ambiental interdisciplinar. Unir o conhecimento tradicional bem como transformar a Unidade de Conservação tal como um bem natural de todos, é a melhor forma de uma gestão.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 authors:
 - admin
-- Alex Luiz Amaral Oliveira; Fernanda Oliveira; Fred Mendes de Carvalho
-date: "2016-09-16T00:00:00Z"
-ISSN: "ISSN 2358-274X"
+- Robert Ford
+date: "2013-07-01T00:00:00Z"
+doi: ""
 featured: true
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
@@ -44,5 +44,7 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+
 
 
