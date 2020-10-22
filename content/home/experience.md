@@ -24,9 +24,9 @@ date_format = "Jan 2006"
   company_url = "https://nmcprojetoseconsultoria.com.br"
   location = "Belo Horizonte"
   date_start = "2018-03-07"
-  date_end = "2020-06-15"
-  description = """Atuação no Programa Nossa Pampulha - COPASA"""
-  Responsabilidades
+  date_end = ""
+  description = """
+  Responsabilidades:
   
   * Análise de dados
   * Mapas Tématicos
