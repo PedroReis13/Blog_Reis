@@ -27,10 +27,10 @@ subtitle = ""
   description = "60%"  
   
 [[feature]]
-  icon = "'map-marked-alt'"
+  icon = "'<i class="icofont-map"></i>'"
   icon_pack = "fas"
-  name = "fa-map-marked-alt"
-  description = "60%"  
+  name = "<i class="icofont-map"></i>"
+  description = "80%"  
   
 # Uncomment to use emoji icons.
 # [[feature]]
